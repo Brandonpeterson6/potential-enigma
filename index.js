@@ -36,7 +36,7 @@ const questions = [
     {
         type: 'list',
         name: 'License',
-        choices: ['Apache License 2.0', ' MIT License', 'Eclipse Public License 2.0', 'Mozilla Public License 2.0'],
+        choices: ['Apache License 2.0', ' MIT License', 'Eclipse Public License 2.0', 'Mozilla Public License 2.0', 'none'],
         message: 'Select the type of licese.',
     },
     {
